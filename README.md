@@ -10,7 +10,7 @@ Yellow Button: Selects Mode, test mode will cycle through a hard coded list of A
 
 Red Button: Frequency control, system supports 1 Hz, 2 Hz, 4 Hz, 8 Hz, and 16 Hz.
 
-Blue Button: User selection of A and B inputes, 1 press increments the inputs parameter by 1.
+Blue Button: User selection of A and B inputs, 1 press increments the inputs parameter by 1.
 
 Green Button: Executes addition of the two inputs.
 
