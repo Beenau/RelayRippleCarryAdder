@@ -1,7 +1,7 @@
 # RelayRippleCarryAdder
 Arduino code for use on the Mega2560 or Due microprocessors
 
-Capable of 5-bit addition, 4 relays create the needed AND and XOR logic gates for calculating the sum of each bit addition.  Green LEDs display sum buts, blue LEDs display carry bits.  LCD screen used to display user controls and addition logic in a human readable format.  Microprocessor supplys the input bits of the A, B, and Cin parameters to the DPDT relay switches.
+Capable of 5-bit addition, 4 relays create the needed AND and XOR logic gates for calculating the sum of each bit addition.  Green LEDs display sum bits, blue LEDs display carry bits.  LCD screen used to display user controls and addition logic in a human readable format.  Microprocessor supplys the input bits of the A, B, and Cin parameters to the DPDT relay switches.
 
 # User Inputs
 5 buttons on the device contol the system.
